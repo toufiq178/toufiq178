@@ -1,12 +1,12 @@
 
 ![Banner](cover.png)
 
-👋 Hi, I'm Toufiq Alahe  
+## 👋 Hi, I'm Toufiq Alahe  
 
-💻 Web Developer  
+#💻 Web Developer  
 Passionate about building modern, responsive, and user-focused web experiences.
 
-🚀 About Me
+#🚀 About Me
 
 💻 I am a passionate Web Developer
 🎨 I enjoy building responsive UI and modern layouts
