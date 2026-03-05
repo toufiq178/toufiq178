@@ -9,9 +9,13 @@ Passionate about building modern, responsive, and user-focused web experiences.
 #🚀 About Me
 
 💻 I am a passionate Web Developer
+
 🎨 I enjoy building responsive UI and modern layouts
+
 📚 Currently learning JavaScript (ES6+)
+
 🎯 My goal is to become a Full Stack Developer
+
 
 ⚡ I enjoy learning new technologies and improving my development skills every day.
 
