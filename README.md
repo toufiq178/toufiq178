@@ -8,7 +8,7 @@
 <p align="center">
 Building clean, responsive, and user-focused web experiences.
 </p>
-<p align="center" style="margin: 5px 0;">
+<p align="center" style="margin: 5px 0; display:flex; justify-content:center; align-items:center;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&width=500&lines=Hi+👋,+I'm+Toufiq+Alahe;Web+Developer;React+Enthusiast;Passionate+About+Modern+Web+Applications" alt="Typing Animation"/>
 </p>
 
