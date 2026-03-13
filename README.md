@@ -53,21 +53,22 @@ I enjoy transforming ideas into real digital experiences using modern JavaScript
 ##  Socials:
 <p align="left">
 
-<a href="https://github.com/toufiq178" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="40"/>
-</a>
-
 <a href="https://www.linkedin.com/in/toufiq-alahe-dev/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
-
-<a href="https://www.facebook.com/toufiq17878" target="_blank">
-<img src="https://skillicons.dev/icons?i=facebook" height="40"/>
 </a>
 
 <a href="mailto:toufiqalahe.dev@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
+
+<a href="https://github.com/toufiq178" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
+
+<a href="https://www.facebook.com/toufiq17878" target="_blank">
+<img src="https://cdn.simpleicons.org/facebook/1877F2" height="40"/>
+</a>
+
 
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
