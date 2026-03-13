@@ -8,8 +8,8 @@
 <p align="center">
 Building clean, responsive, and user-focused web experiences.
 </p>
-<p align="center" style="margin: 5px 0; display:flex; justify-content:center; align-items:center;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&width=500&lines=Hi+👋,+I'm+Toufiq+Alahe;Web+Developer;React+Enthusiast;Passionate+About+Modern+Web+Applications" alt="Typing Animation"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&width=500&lines=Hi+👋,+I'm+Toufiq+Alahe;Web+Developer;React+Enthusiast;Passionate+About+Modern+Web+Applications" alt="Typing Animation"/>
 </p>
 
 ## 🚀 About Me
@@ -27,7 +27,7 @@ I enjoy transforming ideas into real digital experiences using modern JavaScript
 ## 🧰 Tech Stack
 
 <p>Languages & Tools</p>
-<p align="left style="display:flex; gap:15px; align-items:center;>
+<p align="left >
 
 <img src="https://skillicons.dev/icons?i=html" height="50"/>
 <img src="https://skillicons.dev/icons?i=css" height="50"/>
@@ -55,7 +55,7 @@ I enjoy transforming ideas into real digital experiences using modern JavaScript
 </p>
 
 ##  Socials:
-<p align="left"  style="display:flex; gap:15px; align-items:center;>
+<p align="left" >
 
 <a href="https://www.linkedin.com/in/toufiq-alahe-dev/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
