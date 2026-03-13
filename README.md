@@ -8,9 +8,7 @@
 <p align="center">
 Building clean, responsive, and user-focused web experiences.
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&width=500&lines=Hi+👋,+I'm+Toufiq+Alahe;Web+Developer;React+Enthusiast;Passionate+About+Modern+Web+Applications" alt="Typing Animation"/>
-</p>
+
 
 ## 🚀 About Me
 
@@ -23,6 +21,11 @@ I enjoy transforming ideas into real digital experiences using modern JavaScript
 - 🧠 Always exploring **better UI/UX and performance optimization**
 - 💬 Ask me about **React, JavaScript, HTML, CSS**
 - ⚡ Fun fact: I enjoy building projects that solve real-world problems.
+
+##Skills
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&width=600&lines=React.js;Web+Developer;JavaScript+(ES6+);;DaisyUI;DOM+Manipulation;REST+APIs;Creativity+Skills;Leadership;HTML;Web+Development;Teamwork+and+Collaboration;Creativity;Time+Management;Teamwork;Critical+Thinking;Adaptability;Communication;HTML5;Cascading+Style+Sheets+(CSS);Tailwind+CSS;Responsive+Web+Design" alt="Typing Skills Animation"/>
+</p>
 
 ## 🧰 Tech Stack
 
