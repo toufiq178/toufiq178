@@ -51,9 +51,11 @@ I enjoy transforming ideas into real digital experiences using modern JavaScript
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=toufiq178&show_icons=true&theme=tokyonight"/>
-<br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toufiq178&layout=compact&theme=tokyonight"/>
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=toufiq178&show_icons=true&theme=tokyonight"/>
 
 </p>
 
