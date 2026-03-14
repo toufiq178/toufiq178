@@ -33,8 +33,9 @@ I enjoy transforming ideas into real digital experiences using modern JavaScript
 <p>Languages & Tools</p>
 <p align="left >
 
-<img src="https://skillicons.dev/icons?i=html" height="50"/>
+
 <img src="https://skillicons.dev/icons?i=css" height="50"/>
+<img src="https://skillicons.dev/icons?i=html" height="50"/>
 <img src="https://skillicons.dev/icons?i=js" height="50"/>
 <img src="https://skillicons.dev/icons?i=react" height="50"/>
 <img src="https://skillicons.dev/icons?i=tailwind" height="50"/>
