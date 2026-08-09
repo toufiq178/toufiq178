@@ -66,7 +66,7 @@ Architecting high-performance web solutions and intuitive user experiences to so
  ```javascript
 const toufiqweb = {
   pronouns: "he/him",
-  languages: ["JavaScript", "HTML", "CSS"],
+  languages: ["JavaScript", "TypeScript", "HTML", "CSS"],
   frameworksAndLibraries: [ "React", "Next.js","Tailwind CSS","DaisyUI","Hero UI","Better Auth"],
   database: ["MongoDB"],
   tools: ["Git", "GitHub","VS Code","Vercel","Netlify","Figma","Pixso"],
